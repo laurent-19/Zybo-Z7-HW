@@ -2,7 +2,7 @@
 
 ## Zybo Z7-10 HDMI Input/Output Demo
 
-For more information on the Zybo Z7, see its [Resource Center](https://reference.digilentinc.com/reference/programmable-logic/zybo-z7/start) on the Digilent Wiki.
+For ... more information on the Zybo Z7, see its [Resource Center](https://reference.digilentinc.com/reference/programmable-logic/zybo-z7/start) on the Digilent Wiki.
 
 For more information on the Zybo Z7-10 HDMI Input/Output Demo, including setup instructions, visit its [Demo Page](https://reference.digilentinc.com/reference/programmable-logic/zybo-z7/demos/hdmi) on the Digilent Wiki.
 
